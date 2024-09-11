@@ -29,7 +29,7 @@ To run this project, you need Python and the required libraries installed. Follo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/xgagandeep/Multivariate-Regression-from-scratch-with-Gradient-descenth.git
+   git clone https://github.com/xgagandeep/Multivariate-Regression-from-scratch-with-Gradient-descent.git
    ```
 
 2. **Navigate to the project directory:**
