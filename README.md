@@ -29,13 +29,13 @@ To run this project, you need Python and the required libraries installed. Follo
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/xgagandeep/multivariate-regression-scratch.git
+   git clone https://github.com/xgagandeep/Multivariate-Regression-from-scratch-with-Gradient-descenth.git
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd multivariate-regression-scratch
+   cd Multivariate Regression from scratch with Gradient descent
    ```
 
 3. **Install the required libraries:**
@@ -47,7 +47,7 @@ To run this project, you need Python and the required libraries installed. Follo
 4. **Run the Jupyter Notebook:**
 
    ```bash
-   jupyter notebook Multivariate-Regression-from-scratch-with-Gradient-descent.ipynb
+   jupyter notebook Multivariate Regression using gradient descent.ipynb
    ```
 
 ## Usage
